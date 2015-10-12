@@ -1,0 +1,10 @@
+F:\Projects\Updater\WindowsApplication1\bin\Debug\updater.exe.config
+F:\Projects\Updater\WindowsApplication1\bin\Debug\updater.exe
+F:\Projects\Updater\WindowsApplication1\bin\Debug\updater.pdb
+F:\Projects\Updater\WindowsApplication1\bin\Debug\updater.xml
+F:\Projects\Updater\WindowsApplication1\obj\Debug\Updater.updater.resources
+F:\Projects\Updater\WindowsApplication1\obj\Debug\Updater.Resources.resources
+F:\Projects\Updater\WindowsApplication1\obj\Debug\updater.vbproj.GenerateResource.Cache
+F:\Projects\Updater\WindowsApplication1\obj\Debug\updater.exe
+F:\Projects\Updater\WindowsApplication1\obj\Debug\updater.xml
+F:\Projects\Updater\WindowsApplication1\obj\Debug\updater.pdb

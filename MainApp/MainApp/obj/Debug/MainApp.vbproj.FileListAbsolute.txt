@@ -1,0 +1,10 @@
+F:\Projects\MainApp\MainApp\bin\Debug\MainApp.exe.config
+F:\Projects\MainApp\MainApp\bin\Debug\MainApp.exe
+F:\Projects\MainApp\MainApp\bin\Debug\MainApp.pdb
+F:\Projects\MainApp\MainApp\bin\Debug\MainApp.xml
+F:\Projects\MainApp\MainApp\obj\Debug\MainApp.fm_main.resources
+F:\Projects\MainApp\MainApp\obj\Debug\MainApp.Resources.resources
+F:\Projects\MainApp\MainApp\obj\Debug\MainApp.vbproj.GenerateResource.Cache
+F:\Projects\MainApp\MainApp\obj\Debug\MainApp.exe
+F:\Projects\MainApp\MainApp\obj\Debug\MainApp.xml
+F:\Projects\MainApp\MainApp\obj\Debug\MainApp.pdb

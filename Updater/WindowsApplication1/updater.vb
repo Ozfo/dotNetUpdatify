@@ -62,11 +62,10 @@ Public Class updater
             If p.Count > 0 Then
 
                 If MsgBox("Application Is Running! Would you like to close it?", vbYesNo + vbInformation, "Process running") = MsgBoxResult.Yes Then
-                    Dim Processes() As Process = Process.GetProcessesByName("MainApp")
-                    For Each Process As Process In Processes
-                        'kill process of main app
-                        Process.Kill()
-                    Next
+					For Each Process As Process In p
+						'kill process of main app
+						Process.Kill()
+					Next
                     MsgBox("Update now ready, click ok to continue.")
                     'do update of main app
                     doUpdate()
